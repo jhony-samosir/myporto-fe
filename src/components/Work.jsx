@@ -21,7 +21,7 @@ const Work = () => {
     },
     {
       title: "PMO Reengineering",
-      description: "web application for managing and monitoring project and capital expenditure data. I developed backend services using .NET Core 8 with a microservices architecture, built the frontend with Angular, and used PostgreSQL as the main database to support project tracking, budgeting, and reporting.",
+      description: "A web application for managing and monitoring project. I developed backend services using .NET Core 8 with a microservices architecture and used PostgreSQL as the main database.",
       tags: [".NET Core", "Angular", "PostgreSQL"],
       image: "",
       link: "#"
