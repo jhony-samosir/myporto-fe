@@ -20,9 +20,9 @@ const Work = () => {
       link: "#"
     },
     {
-      title: "CAPEX Dashboard",
-      description: "A web application for managing and visualizing capital expenditure data. My role involved developing backend services using .NET Core.",
-      tags: [".NET Core", "React", "SQL Server"],
+      title: "PMO Reengineering",
+      description: "web application for managing and monitoring project and capital expenditure data. I developed backend services using .NET Core 8 with a microservices architecture, built the frontend with Angular, and used PostgreSQL as the main database to support project tracking, budgeting, and reporting.",
+      tags: [".NET Core", "Angular", "PostgreSQL"],
       image: "",
       link: "#"
     },
